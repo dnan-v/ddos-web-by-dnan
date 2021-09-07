@@ -6,7 +6,7 @@ subscribe Dnanjer Ploit
 cara mengunakan
 
 pertama git clone
-git clone
+git clone https://github.com/dnan-v/ddos-web-by-dnan.git
 
 kedua cd
 cd ddos-web-by-dnan
