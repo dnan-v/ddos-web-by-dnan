@@ -1,15 +1,21 @@
 # ddos-web-by-dnan
 dnanhttps://www.youtube.com/channel/UCNqnzndIG8XPpu1h3C41Esw
-subscribe Dnanjer Ploit 
+subscribe Xtacin
 
 
-cara mengunakan
+kelebihan
 
-pertama git clone
-git clone https://github.com/dnan-v/ddos-web-by-dnan.git
+http attack
+ping of death
+sys flood
+ip fake
 
-kedua cd
-cd ddos-web-by-dnan
+kekurangan 
 
-ketiga
-python dnan-exploit..py
+slow respon
+attack low
+
+
+
+
+untuk update akan segera saya upload di github
